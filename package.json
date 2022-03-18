@@ -1,0 +1,11 @@
+{
+  "name": "world-of-surgeries",
+  "version": "1.0.0",
+  "description": "get afortable surgeries around the world",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luis y viro",
+  "license": "ISC"
+}
